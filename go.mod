@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/clistats
+module github.com/faint-star/clistats
 
 go 1.19
 
